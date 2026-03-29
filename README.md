@@ -6,7 +6,7 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 
 **APPARATUS REQUIRED**:
 
-1.	Regulated Power supply ( RPS)	(0-30 V)	1
+1.	Regulated Power supply ( RPS)	(0-30 V)	1 
 
 2.	Voltmeter	(0-30 V) MC	1
 
